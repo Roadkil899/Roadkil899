@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roadkil899
+- 👋 Hi, I’m Amith
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning to be a Junior Data Analyst
 - 💞️ I’m looking to collaborate on Data Analytics Projects
